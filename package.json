@@ -10,7 +10,7 @@
     "dev": "./node_modules/nodemon/bin/nodemon.js index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.6.11"
   },
   "devDependencies": {
